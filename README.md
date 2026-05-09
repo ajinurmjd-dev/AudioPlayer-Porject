@@ -56,7 +56,7 @@ python main.pyw
 
 | Player Interface | Custom Equalizer |
 | :---: | :---: |
-| ![Player]<img width="835" height="678" alt="Screenshot 2026-05-09 200407" src="https://github.com/user-attachments/assets/8f679e41-2f92-49ed-9755-b79f6411d726" /> | ![Equalizer]<img width="597" height="382" alt="Screenshot 2026-05-09 200415" src="https://github.com/user-attachments/assets/7bb4c753-eb82-4d4d-939f-0c92ab2369d9" /> |
+| Player<img width="835" height="678" alt="Screenshot 2026-05-09 200407" src="https://github.com/user-attachments/assets/8f679e41-2f92-49ed-9755-b79f6411d726" /> | Equalizer<img width="597" height="382" alt="Screenshot 2026-05-09 200415" src="https://github.com/user-attachments/assets/7bb4c753-eb82-4d4d-939f-0c92ab2369d9" /> |
 
 ---
 
