@@ -25,3 +25,43 @@ Before running the player, make sure you have the following installed:
 3.  **Required Libraries**:
     ```bash
     pip install customtkinter pillow python-vlc mutagen
+🚀 How to Run
+1. Clone this repository:
+git clone [https://github.com/USERNAME_LU/NAMA_REPO_LU.git](https://github.com/ajinurmjd-dev/AudioPlayer-Porject.git)
+
+2. Navigate to the project folder:
+cd AudioPlayer-Porject
+
+3. Run the application:
+python main.pyw
+
+    *(Using `.pyw` will run the app without the terminal window).*
+
+---
+
+## 📂 Project Structure
+
+*   `main.pyw`: The main entry point and UI logic.
+*   `audio_engine.py`: The core audio engine handling VLC and metadata extraction.
+*   `smart_shuffle.py`: The logic for the Tetris-Bag shuffling algorithm.
+*   `player_settings.json`: Stores your last opened folder (auto-generated).
+
+---
+
+## 🖼️ Preview
+
+*(Pro tip: Lu bisa screenshot aplikasi lu, upload ke folder 'assets' di GitHub, terus panggil gambarnya di sini)*
+
+| Player Interface | Custom Equalizer |
+| :---: | :---: |
+| ![Player](https://via.placeholder.com/400x250?text=Adaptive+UI+Preview) | ![Equalizer](https://via.placeholder.com/400x250?text=10-Band+EQ+Preview) |
+
+---
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+**Made with ❤️ for the Audiophile Community.**
