@@ -1,3 +1,5 @@
+
+
 # 🎵 Smart Shuffle Player - Audiophile Edition
 
 A sleek, modern, and high-fidelity FLAC audio player built with Python. Inspired by the aesthetics of Apple Music, designed for the audiophile who demands control and visual elegance.
@@ -54,7 +56,7 @@ python main.pyw
 
 | Player Interface | Custom Equalizer |
 | :---: | :---: |
-| ![Player](https://via.placeholder.com/400x250?text=Adaptive+UI+Preview) | ![Equalizer](https://via.placeholder.com/400x250?text=10-Band+EQ+Preview) |
+| ![Player]<img width="835" height="678" alt="Screenshot 2026-05-09 200407" src="https://github.com/user-attachments/assets/8f679e41-2f92-49ed-9755-b79f6411d726" /> | ![Equalizer]<img width="597" height="382" alt="Screenshot 2026-05-09 200415" src="https://github.com/user-attachments/assets/7bb4c753-eb82-4d4d-939f-0c92ab2369d9" /> |
 
 ---
 
