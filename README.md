@@ -27,7 +27,7 @@ Before running the player, make sure you have the following installed:
     pip install customtkinter pillow python-vlc mutagen
 🚀 How to Run
 1. Clone this repository:
-git clone [https://github.com/USERNAME_LU/NAMA_REPO_LU.git](https://github.com/ajinurmjd-dev/AudioPlayer-Porject.git)
+git clone [HERE](https://github.com/ajinurmjd-dev/AudioPlayer-Porject.git)
 
 2. Navigate to the project folder:
 cd AudioPlayer-Porject
